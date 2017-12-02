@@ -1,0 +1,8 @@
+WebView1.MainActivity, WebView1;md5db703ec54e4c66c4f79d8dcd2dfc8a84.MainActivity
+WebView1.MainActivity, WebView1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db703ec54e4c66c4f79d8dcd2dfc8a84.MainActivity
+WebView1.MainActivity;md5db703ec54e4c66c4f79d8dcd2dfc8a84.MainActivity
+webview1.MainActivity;md5db703ec54e4c66c4f79d8dcd2dfc8a84.MainActivity
+WebView1.HelloWebViewClient, WebView1;md5db703ec54e4c66c4f79d8dcd2dfc8a84.HelloWebViewClient
+WebView1.HelloWebViewClient, WebView1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db703ec54e4c66c4f79d8dcd2dfc8a84.HelloWebViewClient
+WebView1.HelloWebViewClient;md5db703ec54e4c66c4f79d8dcd2dfc8a84.HelloWebViewClient
+webview1.HelloWebViewClient;md5db703ec54e4c66c4f79d8dcd2dfc8a84.HelloWebViewClient
